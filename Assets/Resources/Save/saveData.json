@@ -1,0 +1,69 @@
+{
+    "monsterSaveDataList": [
+        {
+            "customName": "",
+            "shiny": false,
+            "species": "0001",
+            "size": 3.0,
+            "currentLevel": 15,
+            "currentExp": 22744,
+            "currentHealth": 75,
+            "isInTeamBoxSlots": true,
+            "isInBoxSlots": false,
+            "indexInSlot": 0
+        },
+        {
+            "customName": "",
+            "shiny": false,
+            "species": "0007",
+            "size": 6.0393524169921879,
+            "currentLevel": 13,
+            "currentExp": -256,
+            "currentHealth": 65,
+            "isInTeamBoxSlots": true,
+            "isInBoxSlots": false,
+            "indexInSlot": 1
+        },
+        {
+            "customName": "",
+            "shiny": false,
+            "species": "0342",
+            "size": 7.05568790435791,
+            "currentLevel": 34,
+            "currentExp": 0,
+            "currentHealth": 30,
+            "isInTeamBoxSlots": true,
+            "isInBoxSlots": false,
+            "indexInSlot": 2
+        },
+        {
+            "customName": "",
+            "shiny": false,
+            "species": "0007",
+            "size": 3.0,
+            "currentLevel": 7,
+            "currentExp": 0,
+            "currentHealth": 14,
+            "isInTeamBoxSlots": false,
+            "isInBoxSlots": true,
+            "indexInSlot": 0
+        },
+        {
+            "customName": "",
+            "shiny": false,
+            "species": "0001",
+            "size": 4.472418308258057,
+            "currentLevel": 6,
+            "currentExp": 0,
+            "currentHealth": 30,
+            "isInTeamBoxSlots": false,
+            "isInBoxSlots": true,
+            "indexInSlot": 1
+        }
+    ],
+    "playerPosition": {
+        "x": 1998.062744140625,
+        "y": -99.39614868164063,
+        "z": 1529.8004150390625
+    }
+}
